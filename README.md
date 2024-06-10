@@ -1,4 +1,4 @@
-# Klose - RAG Chatbot for Time Management and Productivity
+# Klose - RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) type chatbot for time management and productivity.
 
